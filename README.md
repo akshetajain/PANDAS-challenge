@@ -1,2 +1,2 @@
 # PANDAS-challenge
-PyCitySchools Assignment
+Assignment
